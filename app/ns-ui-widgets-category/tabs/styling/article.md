@@ -2,7 +2,7 @@
 
 The main styling options are introduced with three specific properties that should be set on the `TabStrip` component.
 
-- `selectedItemnColor`: Sets the text color of the selected tab strip item. Also sets the color of the tab strip icon when the icon is an icon font (`font://`).
+- `selectedItemColor`: Sets the text color of the selected tab strip item. Also sets the color of the tab strip icon when the icon is an icon font (`font://`).
 - `unSelectedItemColor`: Sets the text color of the unselected tab strip items. Also sets the color of the tab strip icon when the icon is an icon font (`font://`).
 - `highlightColor`: Sets the color of the underline for the selected tab strip item.
 
